@@ -1,0 +1,21 @@
+https://chercher.tech/java/dropdown-comparision
+
+https://www.youtube.com/watch?v=Ve-9VGLzjVk&list=PLfD4W8QfMd5BoSAMt5pPBxdh0742aU0aT&index=19
+
+https://github.com/TestLeafPages/Sel-March-2023
+
+https://www.softwaretestinghelp.com/essentials-of-java-in-selenium/#:~:text=the%20ChromeDriver%20class.-,Method%20Overloading%20In%20Selenium,same%20name%20and%20different%20parameters.&text=Now%20in%20Selenium%2C%20we%20all,for%20some%20specified%20time%20interval.
+
+https://www.youtube.com/watch?v=O8yP672fogE - Data Provider
+
+https://www.youtube.com/watch?v=9gVYzoupR9g - RD Automation Selenium Interview question
+
+https://www.youtube.com/watch?v=4fI-cjZD3iE&t=7s - RD Automation Selenium Interview question
+
+https://www.youtube.com/watch?v=m-V7O02ajL4 - Explicit wait - Arul prasath
+
+https://www.youtube.com/watch?v=RzCzvCAyzC8 - Selenium Mock 
+
+http://leaftaps.com/opentaps/control/main
+
+https://platform.testleaf.com/#/
